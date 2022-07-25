@@ -1,0 +1,48 @@
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+
+                
+
+body{
+    font-family: 'Harry Potter', sans-serif; 
+    background-image: url('./parchment_paper.jpeg')                                     
+}
+#q1Input{
+    background-color:transparent;
+    border:0px;
+}
+#q2Input{
+    background-color:transparent;
+    border:0px;
+}
+#q3Input{
+    background-color:transparent;
+    border:0px;
+}
+#q4Input{
+    background-color:transparent;
+    border:0px;
+}
+#q5Input{
+    background-color:transparent;
+    border:0px;
+}
+#q6Input{
+    background-color:transparent;
+    border:0px;
+}
+#q7Input{
+    background-color:transparent;
+    border:0px;
+}
+#q8Input{
+    background-color:transparent;
+    border:0px;
+}
+#q9Input{
+    background-color:transparent;
+    border:0px;
+}
+#q10Input{
+    background-color:transparent;
+    border:0px;
+}
